@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-ac40920b6d08d6233c8c82395e861a1a8afe82c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\libs\ParseFacebookUtilsV4-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0490b697e2ff12e81b214d17f166534dfd3bced">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.9.4-d800a69ceab3045247f1aa418733307666e36fc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-1423929a2f60a87226c4597e0c8dbd958adf2aea.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-435b1e8609517b0e6f0b1af28932ecdff0ef55c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\Parse-1.9.4-29e4fe101aefc559e91c4e4b5f9cd38efc12f16f.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-e2053f447eee8acec6fa75170965d1a19e3d01fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-40226d7b2cd85b113cea559a75744a0a7e4e2298.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-77d26a662483b48a7107eba49cce3a991cb700f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-d451ab5ea199df898e75225a1a9ecdba7b03fed6.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-cf334fae1d7d439196984ed8e32f186cdf4343b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\libs\android-gif-drawable-1.1.7-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b9c2b6bab01c1a73edf35721f1076d4cc22d02">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\android-gif-drawable-1.1.7-sources-7ce687a809cbf0773f0a3bbffd16f0ee46d9791a.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-1c8d535c907b3ee3d1cdc0fe611c6bda5f208514.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-8873f2611884f3b4aaf5bfde45fec58dd1b12304.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\libs\ParseCrashReporting-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7a11f2d74111fd9b02c2d091a1b76b82f6a4357e">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.4-a3d20170e7066515dd43bd252d97704cbb16d4b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-462d2f83819a820c30acfb0beb5c642db7e10fbe.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-0e35a7d9a88b1c4f46106ed5432f48455bdb24de.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-00d9dca1eb3bbd202705812cbaf9f93f1d9eed8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-974efc8ffd086a60aeca950170b3997f3d69937b.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-a57ecae079be926799ab39192802ac7dab89ed99.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-8695c6aac94e81e7a588328d57446b6aab6db924.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-302e430f30b93fcdbb2bc814aa9a1bdc5f66ecf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-8e6a142defe45cfd0251cc5c8105c5444f4b7f55.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-89426a8144b50d04f65eda4deb6daec0de313a44.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-097f9257dba762fcb51118fc61ffd67775f40280.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-870667c108b6862c320e27d655609c357240b991.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6825a79ca6c134dd6f26fc15eff443b5215dbdc">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-970b27775d25df2b253072151e84c711e56c6d7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-121f366686e2ac4bd138e832f2ef0798254e4e19.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-2bf6d3f8d3715e2810f3fe01a94304165f177d49.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-b9c17776974106d2d7c3e392aced236dff1fcc93.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\m\AndroidStudioProjects\RandomApp\app\build\intermediates\pre-dexed\debug\classes-918b299fd06008c11d246acf5a7bd6804ca6996e.jar" />
+    </item>
+
+</items>
